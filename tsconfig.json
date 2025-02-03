@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "jsx": "react-jsx",
+      "esModuleInterop": true, //true boolean
+      "moduleResolution": "node",
+      "isolatedModules": true
+    }
+  }
+  
